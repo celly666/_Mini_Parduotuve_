@@ -90,12 +90,12 @@ namespace _Mini_Parduotuve_Unit_Test_
             List<PrekiuKrepselis> krepselis = new List<PrekiuKrepselis>();
             krepselis.Add(new PrekiuKrepselis
             {
-                Kaina = 99.99,
+                
                 Svoris = 5
             });
             krepselis.Add(new PrekiuKrepselis
             {
-                Kaina = 15.99,
+                
                 Svoris = 0.4
             });
 
